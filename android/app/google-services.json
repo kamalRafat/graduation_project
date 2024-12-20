@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814097880357",
+    "project_id": "health-and-doctor-appoin-84956",
+    "storage_bucket": "health-and-doctor-appoin-84956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814097880357:android:ccdbb100f005b8bb61f6cc",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaY7lFUYOhTVTHhq9uutLRml2uNaMFMVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814097880357:android:faa8cd0b54ab24af61f6cc",
+        "android_client_info": {
+          "package_name": "com.example.health_doctor_appointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaY7lFUYOhTVTHhq9uutLRml2uNaMFMVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
