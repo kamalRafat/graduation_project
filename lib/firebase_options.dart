@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBaY7lFUYOhTVTHhq9uutLRml2uNaMFMVQ',
+    apiKey: 'apiKey',
     appId: '1:814097880357:android:ccdbb100f005b8bb61f6cc',
     messagingSenderId: '814097880357',
     projectId: 'health-and-doctor-appoin-84956',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCdE7WPiU9b-IRnIP4jSgQjZv8OcGCvhmM',
+    apiKey: 'apiKey',
     appId: '1:814097880357:ios:7b068e1a63862cb361f6cc',
     messagingSenderId: '814097880357',
     projectId: 'health-and-doctor-appoin-84956',
